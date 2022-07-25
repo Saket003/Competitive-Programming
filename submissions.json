@@ -1,4 +1,20 @@
 {
+  "CF165646859": {
+    "contest_id": 263,
+    "language": "Clang++20 Diagnostics",
+    "path": "codeforces\\263\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Beautiful Matrix",
+    "problem_url": "https://codeforces.com/contest/263/problem/A",
+    "submission_id": "CF165646859",
+    "submission_url": "https://codeforces.com/contest/263/submission/165646859",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jul/25/2022 14:15"
+  },
   "CF165660470": {
     "contest_id": 260,
     "language": "Clang++20 Diagnostics",
