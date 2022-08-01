@@ -10,7 +10,7 @@ int main(){
         scanf("%d",&H);
         scanf("%d",&M);
         int ho,mo,diff;
-        int min =1501;
+        int min =10000000;
         for(int i=0;i<n;i++){
             scanf("%d",&h);
             scanf("%d",&m);
