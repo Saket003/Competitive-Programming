@@ -1,4 +1,21 @@
 {
+  "CF168112963": {
+    "contest_id": 1712,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1712\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Wonderful Permutation",
+    "problem_url": "https://codeforces.com/contest/1712/problem/A",
+    "submission_id": "CF168112963",
+    "submission_url": "https://codeforces.com/contest/1712/submission/168112963",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Aug/13/2022 20:21"
+  },
   "CF168134083": {
     "contest_id": 1712,
     "language": "GNU C++20 (64)",
