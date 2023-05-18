@@ -1,4 +1,20 @@
 {
+  "CF206314298": {
+    "contest_id": 1829,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1829\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Blank Space",
+    "problem_url": "https://codeforces.com/contest/1829/problem/B",
+    "submission_id": "CF206314298",
+    "submission_url": "https://codeforces.com/contest/1829/submission/206314298",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/18/2023 14:00"
+  },
   "CF206315289": {
     "contest_id": 1829,
     "language": "GNU C++20 (64)",
