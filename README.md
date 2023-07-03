@@ -12,16 +12,17 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-43 | [A - Another One Bites The Dust](https://codeforces.com/contest/1148/problem/A) | [GNU C++20 (64)](./codeforces/1148/A.cpp) | `greedy` `*800` | Jul/04/2023 10:50 | 
-42 | [B - Mahmoud and a Triangle](https://codeforces.com/contest/766/problem/B) | [GNU C++20 (64)](./codeforces/766/B.cpp) | `constructive algorithms` `geometry` `greedy` `math` `number theory` `sortings` `*1000` | Jul/04/2023 10:45 | 
-41 | [B - Last minute enhancements](https://codeforces.com/contest/1466/problem/B) | [GNU C++20 (64)](./codeforces/1466/B.cpp) | `dp` `greedy` `*800` | Jul/04/2023 10:23 | 
-40 | [A - Display The Number](https://codeforces.com/contest/1295/problem/A) | [GNU C++20 (64)](./codeforces/1295/A.cpp) | `greedy` `*900` | Jul/04/2023 10:14 | 
-39 | [A - Omkar and Password](https://codeforces.com/contest/1392/problem/A) | [GNU C++20 (64)](./codeforces/1392/A.cpp) | `greedy` `math` `*800` | Jul/04/2023 10:05 | 
-38 | [A - Cheap Travel](https://codeforces.com/contest/466/problem/A) | [GNU C++20 (64)](./codeforces/466/A.cpp) | `implementation` `*1200` | Jul/03/2023 22:21 | 
-37 | [A - Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | [GNU C++20 (64)](./codeforces/263/A.cpp) | `implementation` `*800` | Jul/03/2023 22:04 | 
-36 | [A - Bit++](https://codeforces.com/contest/282/problem/A) | [GNU C++20 (64)](./codeforces/282/A.cpp) | `implementation` `*800` | Jul/03/2023 22:01 | 
-35 | [A - Noldbach problem](https://codeforces.com/contest/17/problem/A) | [GNU C++20 (64)](./codeforces/17/A.cpp) | `brute force` `math` `number theory` `*1000` | Jul/03/2023 12:30 | 
-34 | [A - Alyona and Numbers](https://codeforces.com/contest/682/problem/A) | [GNU C++20 (64)](./codeforces/682/A.cpp) | `constructive algorithms` `math` `number theory` `*1100` | Jul/03/2023 10:52 | 
+44 | [A - Another One Bites The Dust](https://codeforces.com/contest/1148/problem/A) | [GNU C++20 (64)](./codeforces/1148/A.cpp) | `greedy` `*800` | Jul/04/2023 10:50 | 
+43 | [B - Mahmoud and a Triangle](https://codeforces.com/contest/766/problem/B) | [GNU C++20 (64)](./codeforces/766/B.cpp) | `constructive algorithms` `geometry` `greedy` `math` `number theory` `sortings` `*1000` | Jul/04/2023 10:45 | 
+42 | [B - Last minute enhancements](https://codeforces.com/contest/1466/problem/B) | [GNU C++20 (64)](./codeforces/1466/B.cpp) | `dp` `greedy` `*800` | Jul/04/2023 10:23 | 
+41 | [A - Display The Number](https://codeforces.com/contest/1295/problem/A) | [GNU C++20 (64)](./codeforces/1295/A.cpp) | `greedy` `*900` | Jul/04/2023 10:14 | 
+40 | [A - Omkar and Password](https://codeforces.com/contest/1392/problem/A) | [GNU C++20 (64)](./codeforces/1392/A.cpp) | `greedy` `math` `*800` | Jul/04/2023 10:05 | 
+39 | [A - Cheap Travel](https://codeforces.com/contest/466/problem/A) | [GNU C++20 (64)](./codeforces/466/A.cpp) | `implementation` `*1200` | Jul/03/2023 22:21 | 
+38 | [A - Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | [GNU C++20 (64)](./codeforces/263/A.cpp) | `implementation` `*800` | Jul/03/2023 22:04 | 
+37 | [A - Bit++](https://codeforces.com/contest/282/problem/A) | [GNU C++20 (64)](./codeforces/282/A.cpp) | `implementation` `*800` | Jul/03/2023 22:01 | 
+36 | [A - Noldbach problem](https://codeforces.com/contest/17/problem/A) | [GNU C++20 (64)](./codeforces/17/A.cpp) | `brute force` `math` `number theory` `*1000` | Jul/03/2023 12:30 | 
+35 | [A - Alyona and Numbers](https://codeforces.com/contest/682/problem/A) | [GNU C++20 (64)](./codeforces/682/A.cpp) | `constructive algorithms` `math` `number theory` `*1100` | Jul/03/2023 10:52 | 
+34 | [B - Digital root](https://codeforces.com/contest/1107/problem/B) | [GNU C++20 (64)](./codeforces/1107/B.cpp) | `math` `number theory` `*1000` | Jul/03/2023 10:39 | 
 33 | [C - Vlad Building Beautiful Array](https://codeforces.com/contest/1833/problem/C) | [GNU C++20 (64)](./codeforces/1833/C.cpp) | `greedy` `math` `*800` | May/19/2023 20:51 | 
 32 | [B - Restore the Weather](https://codeforces.com/contest/1833/problem/B) | [GNU C++20 (64)](./codeforces/1833/B.cpp) | `greedy` `sortings` `*900` | May/19/2023 20:34 | 
 31 | [A - Musical Puzzle](https://codeforces.com/contest/1833/problem/A) | [GNU C++20 (64)](./codeforces/1833/A.cpp) | `implementation` `strings` `*800` | May/19/2023 20:15 | 
