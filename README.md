@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+66 | [A - Subtraction Game](https://codeforces.com/contest/1844/problem/A) | [GNU C++20 (64)](./codeforces/1844/A.cpp) | `constructive algorithms` `games` | Jul/12/2023 18:53 | 
 65 | [D - Rudolph and Christmas Tree](https://codeforces.com/contest/1846/problem/D) | [GNU C++20 (64)](./codeforces/1846/D.cpp) | `constructive algorithms` `geometry` `math` | Jul/07/2023 21:00 | 
 64 | [B - Rudolph and Tic-Tac-Toe](https://codeforces.com/contest/1846/problem/B) | [GNU C++20 (64)](./codeforces/1846/B.cpp) | `brute force` `implementation` `strings` | Jul/07/2023 20:16 | 
 63 | [A - Rudolph and Cut the Rope ](https://codeforces.com/contest/1846/problem/A) | [GNU C++20 (64)](./codeforces/1846/A.cpp) | `implementation` `math` | Jul/07/2023 20:08 | 

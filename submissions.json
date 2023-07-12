@@ -1159,5 +1159,21 @@
       "math"
     ],
     "timestamp": "Jul/07/2023 21:00"
+  },
+  "CF213515388": {
+    "contest_id": 1844,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1844\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Subtraction Game",
+    "problem_url": "https://codeforces.com/contest/1844/problem/A",
+    "submission_id": "CF213515388",
+    "submission_url": "https://codeforces.com/contest/1844/submission/213515388",
+    "tags": [
+      "constructive algorithms",
+      "games"
+    ],
+    "timestamp": "Jul/12/2023 18:53"
   }
 }
